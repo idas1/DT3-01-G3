@@ -1,7 +1,7 @@
 # Nhóm 3
 
 - Văn
-- Dũng 
+- Dũng (*)
 - Hải 
 - Thái
 - Hiếu
