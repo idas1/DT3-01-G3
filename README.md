@@ -2,6 +2,5 @@
 
 - Văn
 - Dũng (*)
-- Hải 
-- Thái
+- Tài
 - Hiếu
