@@ -1,0 +1,86 @@
+.tren {
+    background-color: bisque;
+    height: 500px;
+    padding-top: 20px;
+    display: flex;
+    padding-left: 150px;
+
+
+
+}
+
+.tren>.anh {
+
+    height: 500px;
+    width: 600px;
+    padding-right: 100px;
+
+
+}
+
+.tren>.noidung {
+
+    height: 500px;
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    vertical-align: center;
+}
+
+.tren>.noidung>button {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    width: 250px;
+}
+
+.tren>.noidung>button:hover {
+    background-color: aquamarine;
+}
+
+.duoi {
+    background-color: rgb(133, 243, 133);
+    height: 500px;
+    padding-top: 20px;
+    display: flex;
+    padding-left: 80px;
+
+
+}
+
+.duoi>.anh_2 {
+
+    height: 500px;
+    width: 500px;
+    padding-left: 100px;
+
+
+
+}
+
+.duoi>.noidung_2 {
+
+    height: 500px;
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    vertical-align: center;
+    padding-right: 100px;
+}
+
+.duoi>.noidung_2>button:hover {
+    background-color: aquamarine;
+}
+
+.duoi>.noidung_2>button {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    width: 250px;
+}
+
+img {
+    width: 150px;
+}
