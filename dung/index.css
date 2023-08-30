@@ -1,0 +1,108 @@
+*{
+    box-sizing: border-box;
+}
+.container-two {
+    background-color: #b17cae;
+    height: 500px;
+    padding-top: 20px;
+    display: flex;
+    padding-left: 150px;
+
+
+
+}
+
+.container-two>.image {
+
+    height: 500px;
+    width: 600px;
+    padding-right: 100px;
+
+
+}
+
+.container-two>.tittle {
+
+    height: 500px;
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    vertical-align: center;
+}
+
+.container-two>.tittle>button {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    width: 250px;
+}
+
+.container-two>.tittle>button:hover {
+    background-color: rgb(149, 95, 128);
+}
+
+.container-two .button{
+    cursor: pointer;
+}
+
+.container-three {
+    background-color: rgb(75 150 160);
+    height: 500px;
+    padding-top: 20px;
+    display: flex;
+    padding-left: 80px;
+
+
+}
+
+.container-three>.image {
+
+    height: 500px;
+    width: 50%;
+    padding-left: 100px;
+
+
+
+}
+
+.container-three>.tittle {
+
+    height: 500px;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    vertical-align: center;
+    padding-right: 100px;
+}
+
+.container-three>.tittle>button:hover {
+    background-color: rgb(149, 95, 128);
+}
+
+.container-three>.tittle>button {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    width: 250px;
+}
+.container-three .button{
+    cursor: pointer;
+}
+
+img {
+    width: 150px;
+}
+
+.slide-tittle{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+.slide-tittle .tag 
+{
+    padding: 10px 42px;
+    width: 222px;
+    margin:  0 20px;
+}
