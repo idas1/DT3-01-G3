@@ -1,0 +1,73 @@
+body {
+  background-color: antiquewhite;
+}
+
+.container {
+
+  width: 1200px;
+  height: 650px;
+  padding-left: 300px;
+  padding-top: 100px;
+
+}
+
+.container>img {
+
+  border: 1px solid #ddd;
+  border-radius: 50%;
+  padding: 5px;
+  width: 280px;
+
+
+}
+
+
+.container>img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+
+}
+
+.container>.aside {
+
+  width: 900px;
+  height: 500px;
+  float: right;
+}
+
+.container>.aside>form {
+  font-size: 20px;
+  font-family: 'Courier New', Courier, monospace;
+  padding-left: 100px;
+}
+
+.container>.aside>.info {
+  font-size: 20px;
+  font-family: 'Courier New', Courier, monospace;
+  padding-left: 100px;
+  width: 800px;
+  height: 90px;
+
+
+}
+
+.container>.aside>.kn {
+  font-size: 20px;
+  font-family: 'Courier New', Courier, monospace;
+  padding-left: 100px;
+  width: 800px;
+  height: 90px;
+
+}
+
+.container>.footer {
+  padding-left: 200px;
+  font-size: 15px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.form :hover,
+
+.form :active {
+  background-color: aqua;
+  font-size: 150%;
+}
